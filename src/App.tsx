@@ -159,7 +159,7 @@ const App = () => {
                 <Shirt className="text-black" size={24} />
               </div>
               <span className="font-bold text-xl text-black">
-                PrintCraft
+              BariumPrints
               </span>
             </div>
             
@@ -371,7 +371,7 @@ const App = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
-              <h2 className="text-4xl font-bold text-black">About PrintCraft</h2>
+              <h2 className="text-4xl font-bold text-black">About BariumPrints</h2>
               <p className="text-lg text-gray-600">
                 With over 5 years of experience in custom printing, we've helped thousands of customers 
                 bring their creative visions to life. Our state-of-the-art equipment and skilled team 
@@ -534,12 +534,12 @@ const App = () => {
               </div>
               
               <div
-                onClick={() => window.location.href = 'mailto:info@printcraft.com'}
+                onClick={() => window.location.href = 'mailto:bariumprints@gmail.com'}
                 className="bg-gray-100/10 backdrop-blur-sm rounded-2xl p-6 hover:bg-gray-200/20 transition-all duration-300 cursor-pointer transform hover:scale-105"
               >
                 <Mail className="text-black mx-auto mb-4" size={32} />
                 <h3 className="text-black font-bold mb-2">Email</h3>
-                <p className="text-gray-600 text-sm">info@printcraft.com</p>
+                <p className="text-gray-600 text-sm">bariumprints@gmail.com</p>
               </div>
               
               <div
@@ -572,7 +572,7 @@ const App = () => {
                 <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center">
                   <Shirt className="text-black" size={20} />
                 </div>
-                <span className="font-bold text-lg">PrintCraft</span>
+                <span className="font-bold text-lg">BariumPrints</span>
               </div>
               <p className="text-gray-600">
                 Your trusted partner for custom printing solutions.
@@ -612,7 +612,7 @@ const App = () => {
           </div>
 
           <div className="border-t border-gray-200 mt-8 pt-8 text-center text-gray-600">
-            <p>&copy; 2025 PrintCraft. All rights reserved.</p>
+            <p>&copy; 2025 BariumPrints. All rights reserved.</p>
           </div>
         </div>
       </footer>
