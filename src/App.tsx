@@ -179,7 +179,7 @@ const App = () => {
               <ContactButton
                 icon={MessageCircle}
                 text="WhatsApp"
-                action={() => window.open('wa.link/3sfykf', '_blank')}
+                action={() => window.open('https://wa.me/917433969474', '_blank')}
               />
             </div>
 
@@ -209,7 +209,7 @@ const App = () => {
                 <ContactButton
                   icon={MessageCircle}
                   text="Contact via WhatsApp"
-                  action={() => window.open('https://wa.me/1234567890', '_blank')}
+                  action={() => window.open('https://wa.me/917433969474', '_blank')}
                 />
               </div>
             </div>
@@ -241,7 +241,7 @@ const App = () => {
                 <ContactButton
                   icon={MessageCircle}
                   text="Start Your Order"
-                  action={() => window.open('https://wa.me/1234567890', '_blank')}
+                  action={() => window.open('https://wa.me/917433969474', '_blank')}
                 />
                 <button
                   onClick={() => scrollToSection('products')}
@@ -345,7 +345,7 @@ const App = () => {
                   <div className="flex justify-between items-center">
                     <span className="text-lg font-bold text-black">{product.price}</span>
                     <button
-                      onClick={() => window.open('https://wa.me/1234567890', '_blank')}
+                      onClick={() => window.open('https://wa.me/917433969474', '_blank')}
                       className="bg-black text-white px-4 py-2 rounded-full hover:bg-gray-800 transition-all duration-300 transform hover:scale-105"
                     >
                       Get Quote
@@ -360,7 +360,7 @@ const App = () => {
             <ContactButton
               icon={MessageCircle}
               text="Discuss Your Custom Project"
-              action={() => window.open('https://wa.me/1234567890', '_blank')}
+              action={() => window.open('https://wa.me/917433969474', '_blank')}
             />
           </div>
         </div>
@@ -556,7 +556,7 @@ const App = () => {
               <ContactButton
                 icon={MessageCircle}
                 text="Start Your Order Now"
-                action={() => window.open('https://wa.me/1234567890', '_blank')}
+                action={() => window.open('https://wa.me/917433969474', '_blank')}
               />
             </div>
           </div>
